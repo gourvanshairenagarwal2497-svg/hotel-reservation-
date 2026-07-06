@@ -27,9 +27,6 @@ A simple Hotel Reservation System developed using **Java Swing**. The applicatio
 
 ---
 
-## 📸 Application Screenshot
-
-![Hotel Reservation System](images/hotel_gui.png)
 
 ---
 
